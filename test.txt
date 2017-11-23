@@ -1,2 +1,3 @@
 this is test
 switch to branch dev
+creating a new branch is quick and simple
